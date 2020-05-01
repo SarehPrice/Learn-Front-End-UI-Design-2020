@@ -222,11 +222,15 @@ Just for Fun -
 
 Processing - A Java based programming language used to create animations, games, and interactive art - https://processing.org/
 
+General Assembly- Another certificate place but also has some free stuff - https://generalassemb.ly/blog/free-fridays/
+
 Developer and Tech Communities
 
 https://womeninwebdev.com/
 
 https://www.hiretechladies.com/
+
+http://ladydev.org/ (Local club in Des Moines, they also run Area515)
 
 _____________________
 
