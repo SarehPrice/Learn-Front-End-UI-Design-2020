@@ -12,6 +12,8 @@ Using Google Chrome Developer tools, you can inspect the code behind any website
 
 Youtube is a really great resource in general. Anything you want to know. It's probably there. A lot of well respected programmers are on there like Wes Bos. Also follow other developers on Twitter. 
 
+Youtube Master List - https://github.com/ErikCH/DevYouTubeList
+
 The IMPORTANT other thing to know is that YOU DO NOT HAVE TO KNOW EVERYTHING to get your first job or jobs after that. Programming is ALWAYS CHANGING. A good job will let you learn on the job, hopefully pay you to learn some things, and will teach you what you don't already need to know. 
 
 ASK QUESTIONS - no question is a dumb one. Use Google first. If that fails, reach out to other programmers via forums, Stack Overflow, Facebook Groups or Twitter. Someone will be happy to help you.
@@ -98,12 +100,16 @@ Interview Cake - Learn CS and how to solve programmer interviews - https://www.i
 
 Programming Interview Youtube - https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9
 
+**100 Days of Code - putting this up here because the idea behind it is solid, reptition, accountability, and progress - https://www.100daysofcode.com/
+
 ______
 
 Content Management Systems
 
 Wordpress- There is a lot of jobs that will require you to know how to work with these -- Wordpress.org / Wordpress.com 
+
 Drupal
+
 Webflow (newer but has a lot of talk around it)
 
 ______
