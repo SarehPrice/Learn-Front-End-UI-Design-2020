@@ -28,6 +28,8 @@ If you work on a website that's already live, you don't need a github for it. Bu
 
 Regardless of what you do, freelance or volunteer projects will help you gain exp in case you can't get an internship. But developer internships are usually open to people out of school because so many people career swtich. You can also start applying to junior level positions. 
 
+________________
+
 PROGRAMMING RESOURCES
 
 (Other lists)
@@ -36,6 +38,7 @@ https://www.womenwhocode.com/resources
 
 http://codingheroes.io/resources/
 
+______
 
 Essentials- 
 
@@ -69,6 +72,8 @@ Web Page Speed Test - https://tools.pingdom.com/
 
 Paul Ford's WHAT IS CODE 10,000 word online novel - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
+______
+
 Mastering Front-End
 
 Guide to Web Skills - https://andreasbm.github.io/web-skills/
@@ -93,6 +98,7 @@ Interview Cake - Learn CS and how to solve programmer interviews - https://www.i
 
 Programming Interview Youtube - https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9
 
+______
 
 Content Management Systems
 
@@ -100,6 +106,7 @@ Wordpress- There is a lot of jobs that will require you to know how to work with
 Drupal
 Webflow (newer but has a lot of talk around it)
 
+______
 
 Tutorials and Others
 
@@ -127,7 +134,7 @@ Coursera
 
 Skillshare
 
-
+______
 
 Exercises
 
@@ -137,7 +144,7 @@ Edabit - Learn coding with interactive challenges - https://edabit.com/
 
 Code Wars - Daily programming challenges - https://www.codewars.com/
 
-
+______
 
 HTML/CSS/Javascript specifics
 
@@ -187,7 +194,7 @@ CSS in 12 minutes - https://youtu.be/0afZj1G0BIE
 
 Javascript in 12 minutes - https://youtu.be/Ukg_U3CnJWI
 
-
+______
 
 More Advanced Code and Topcis-
 
