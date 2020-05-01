@@ -209,6 +209,8 @@ More Advanced Code and Topcis-
 
 Google Developers - tutorials and other resources - https://developers.google.com/
 
+Choose one JS framework to start out with (React, Angular, Vue). It doesn't really matter which you choose but some companies prefer them over others. React is the most popular, followed by Angular, and then Vue. Not a lot of people know Vue but it is really sought out actually. So Maybe React or Angular and Vue together might be a strong choice. 
+
 History of Front End Frameworks- https://youtu.be/Kzeog8yTFaE
 
 React - https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC ; https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
@@ -218,6 +220,8 @@ Angular -https://www.youtube.com/playlist?list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHT
 Vue - https://youtu.be/Wy9q22isx3U 
 
 PHP -https://www.youtube.com/playlist?list=PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB
+
+SQL- https://www.khanacademy.org/computing/computer-programming/sql
 
 APIs - https://youtu.be/GZvSYJDk-us
 
@@ -232,6 +236,8 @@ Just for Fun -
 Processing - A Java based programming language used to create animations, games, and interactive art - https://processing.org/
 
 General Assembly- Another certificate place but also has some free stuff - https://generalassemb.ly/blog/free-fridays/
+
+__________________
 
 Developer and Tech Communities
 
