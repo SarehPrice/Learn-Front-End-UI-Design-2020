@@ -17,8 +17,11 @@ The IMPORTANT other thing to know is that YOU DO NOT HAVE TO KNOW EVERYTHING to 
 ASK QUESTIONS - no question is a dumb one. Use Google first. If that fails, reach out to other programmers via forums, Stack Overflow, Facebook Groups or Twitter. Someone will be happy to help you.
 
 HOW WILL I KNOW WHEN I'M READY? 
+
 When you can create a basic website and have a portfolio of a couple different projects. 
+
 1) Website with static and prototypes designs
+
 2) A Github showcasing your code 
 
 If you work on a website that's already live, you don't need a github for it. But they're good for projects that aren't live. 
@@ -26,102 +29,181 @@ If you work on a website that's already live, you don't need a github for it. Bu
 Regardless of what you do, freelance or volunteer projects will help you gain exp in case you can't get an internship. But developer internships are usually open to people out of school because so many people career swtich. You can also start applying to junior level positions. 
 
 PROGRAMMING RESOURCES
+
 (Other lists)
+
 https://www.womenwhocode.com/resources
+
 http://codingheroes.io/resources/
 
 Essentials- 
+
 GITHUB - An online repository of code to showcase and join in on open-source projects 
+
 Git & Github Tutorial - https://youtu.be/SWYqp7iY_Tc
+
 CodePen- Explore and create things from your browser - https://codepen.io/dashboard/
+
 Sublime Text - An easy, free code editor - https://www.sublimetext.com/
+
 Chrome Dev Tools - Open directly in your browser to test, diagognose, and explore websites - https://developers.google.com/web/tools/chrome-devtools
+
 Blog for developers - https://dev.to/
+
 Stack Overflow is great for looking up answers and stuff, but the community is known to be not friendly to newbies or women - https://stackoverflow.com/
+
 Front End News - Stay Up to Date - https://frontendfront.com/
+
 Front End Focus - Stay Up to Date with this Newsletter - https://frontendfoc.us/
 
 Essential Topics and Concepts
+
 Responsive Web Design - https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
+
 Cross Browser Development - https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Introduction
+
 Agile Methodology - https://www.youtube.com/playlist?list=PLWKjhJtqVAbm0gPNunWf4pr4xV8I3Geh-
+
 Web Page Speed Test - https://tools.pingdom.com/
+
 Paul Ford's WHAT IS CODE 10,000 word online novel - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
 Mastering Front-End
+
 Guide to Web Skills - https://andreasbm.github.io/web-skills/
+
 W3Schools- Learn programming and look stuff up- A reference resource- https://www.w3schools.com/
+
 *Mozilla Developer's Network - Like W3Schools, but the more mature, more indepth up to date sister -https://developer.mozilla.org/en-US/
+
 Tools that Front-end Devs use in 2019 - https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results
+
 Roadmap- Guide to becoming a front-end dev in 2020 https://roadmap.sh/frontend
+
 Front End Developer 2020 Guide - https://youtu.be/sppSnBQVt0k
+
 Interview Questions for Front-End (I.e can you answer these?) https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
 Front End Developer Interview Questions and Answers - https://www.fullstack.cafe/blog/front-end-developer-interview-questions
+
 Illustrated Dev - Illustrating developer concepts - https://illustrated.dev/
+
 Interview Cake - Learn CS and how to solve programmer interviews - https://www.interviewcake.com/
+
 Programming Interview Youtube - https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9
 
 Tutorials and Others
+
 FreeCode Camp- One of the best free resources you can use - https://www.freecodecamp.org/
+
 Khan Academy - has great programming lessons and check out their Computer Science stuff too - https://www.khanacademy.org/computing/computer-programming
+
 CodeAcademy- A Favorite but you have to pay now at a certain point - https://www.codecademy.com/
+
 Front-End Masters - Learn Front-End Development - https://frontendmasters.com/
+
 Udemy - Check out their free courses and then wait for sales on their classes- https://www.udemy.com/courses/free/
+
 Thinkful Webinars- has a bunch of free beginner webinars- https://www.thinkful.com/webinars/
+
 Tree House - A great tutortial/Portfolio/Degree site but can be pricey - https://teamtreehouse.com/
+
 Hackr.io- Tutorials and other Learning - https://hackr.io/
+
 Egghead - Tutorials - https://egghead.io/
+
 LinkedinLearning 
+
 Coursera
+
 Skillshare
 
 Exercises
+
 Exercism- Learn programming with exercises - https://exercism.io/
+
 Edabit - Learn coding with interactive challenges - https://edabit.com/
+
 Code Wars - Daily programming challenges - https://www.codewars.com/
 
 HTML/CSS/Javascript specifics
+
 HTML crash courses - https://youtu.be/pQN-pnXPaVg ; https://youtu.be/UB1O30fR-EE
+
 HTML and CSS Book - A popular book with code examples online - http://www.htmlandcssbook.com/
+
 CSS crash course - https://www.youtube.com/watch?v=yfoY53QXEnI
+
 CSS Tricks - A blog for CSS and other Front-End Dev - https://css-tricks.com/
+
 CSS Podcast- https://pod.link/thecsspodcast
+
 CSS Generator - Quickly generate css - http://css3generator.com/
+
 CSS Diner - https://flukeout.github.io/
+
 CSS Grid - https://cssgrid.io/ ; https://learncssgrid.com/
+
 CSS Flexbox- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 CSS Box Model - https://css-tricks.com/the-css-box-model/
+
 Bootstrap - A CSS, front-end framework - https://getbootstrap.com/
+
 CoDrops- Snippets of cool coding stuff - http://tympanus.net/codrops/
+
 Eloquent Javascript - A read book (with an in browser programming practice) https://eloquentjavascript.net/Eloquent_JavaScript.pdf
+
 Javascript and JQuery - A Popular book with code examples - http://www.javascriptbook.com/
+
 JSLint- "Lints" are programs that find problems in your code - http://www.jslint.com/
+
 JavaScript30 - Create 30 different vanilla Javascript projects - https://javascript30.com/
+
 Beginner Javascript - A paid course by Wes Bos - https://beginnerjavascript.com/
+
 Just Javascript - A newsletter explaining Javascript - https://justjavascript.com/
+
 Vanilla Javascript Projects - +20 plain Javascript projects - https://vanillawebprojects.com/
+
 Full Javascript Foundations Video - https://youtu.be/PkZNo7MFNFg
+
 HTML in 12 minutes - https://youtu.be/bWPMSSsVdPk
+
 CSS in 12 minutes - https://youtu.be/0afZj1G0BIE
+
 Javascript in 12 minutes - https://youtu.be/Ukg_U3CnJWI
 
 More Advanced Code and Topcis-
+
 Google Developers - tutorials and other resources - https://developers.google.com/
+
 History of Front End Frameworks- https://youtu.be/Kzeog8yTFaE
+
 React - https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC ; https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+
 Angular -https://www.youtube.com/playlist?list=PLWKjhJtqVAblNvGKk6aQVPAJHxrRXxHTs
+
 Vue - https://youtu.be/Wy9q22isx3U 
+
 PHP -https://www.youtube.com/playlist?list=PLWKjhJtqVAbkoMsX4hgwxbJZW4aB0cbaB
+
 APIs - https://youtu.be/GZvSYJDk-us
+
 Computer Science from Havard - https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
+
 Computer Science - https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
+
 Google Materials - https://material.io/design/
 
 Just for Fun -
+
 Processing - A Java based programming language used to create animations, games, and interactive art - https://processing.org/
 
 Developer and Tech Communities
+
 https://womeninwebdev.com/
+
 https://www.hiretechladies.com/
 
 _____________________
