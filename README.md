@@ -52,6 +52,8 @@ CodePen- Explore and create things from your browser - https://codepen.io/dashbo
 
 Sublime Text - An easy, free code editor - https://www.sublimetext.com/
 
+VS Code- Is the current, more advanced, free code editor - https://code.visualstudio.com/
+
 Chrome Dev Tools - Open directly in your browser to test, diagognose, and explore websites - https://developers.google.com/web/tools/chrome-devtools
 
 Blog for developers - https://dev.to/
@@ -61,6 +63,7 @@ Stack Overflow is great for looking up answers and stuff, but the community is k
 Front End News - Stay Up to Date - https://frontendfront.com/
 
 Front End Focus - Stay Up to Date with this Newsletter - https://frontendfoc.us/
+
 
 Essential Topics and Concepts
 
