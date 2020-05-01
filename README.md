@@ -36,6 +36,7 @@ https://www.womenwhocode.com/resources
 
 http://codingheroes.io/resources/
 
+
 Essentials- 
 
 GITHUB - An online repository of code to showcase and join in on open-source projects 
@@ -92,6 +93,14 @@ Interview Cake - Learn CS and how to solve programmer interviews - https://www.i
 
 Programming Interview Youtube - https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9
 
+
+Content Management Systems
+
+Wordpress- There is a lot of jobs that will require you to know how to work with these -- Wordpress.org / Wordpress.com 
+Drupal
+Webflow (newer but has a lot of talk around it)
+
+
 Tutorials and Others
 
 FreeCode Camp- One of the best free resources you can use - https://www.freecodecamp.org/
@@ -118,6 +127,8 @@ Coursera
 
 Skillshare
 
+
+
 Exercises
 
 Exercism- Learn programming with exercises - https://exercism.io/
@@ -125,6 +136,8 @@ Exercism- Learn programming with exercises - https://exercism.io/
 Edabit - Learn coding with interactive challenges - https://edabit.com/
 
 Code Wars - Daily programming challenges - https://www.codewars.com/
+
+
 
 HTML/CSS/Javascript specifics
 
@@ -173,6 +186,8 @@ HTML in 12 minutes - https://youtu.be/bWPMSSsVdPk
 CSS in 12 minutes - https://youtu.be/0afZj1G0BIE
 
 Javascript in 12 minutes - https://youtu.be/Ukg_U3CnJWI
+
+
 
 More Advanced Code and Topcis-
 
