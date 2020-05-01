@@ -64,8 +64,11 @@ Front End News - Stay Up to Date - https://frontendfront.com/
 
 Front End Focus - Stay Up to Date with this Newsletter - https://frontendfoc.us/
 
+_________________
 
 Essential Topics and Concepts
+
+What is Computer Science? - https://www.freecodecamp.org/news/what-is-computer-programming-defining-software-development/
 
 Responsive Web Design - https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
 
@@ -76,6 +79,8 @@ Agile Methodology - https://www.youtube.com/playlist?list=PLWKjhJtqVAbm0gPNunWf4
 Web Page Speed Test - https://tools.pingdom.com/
 
 Paul Ford's WHAT IS CODE 10,000 word online novel - https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+Debugging for Beginners - Debugging is the process of finding and fixing errors - https://docs.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2019
 
 ______
 
@@ -230,6 +235,8 @@ Computer Science from Havard - https://www.youtube.com/playlist?list=PLWKjhJtqVA
 Computer Science - https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
 
 Google Materials - https://material.io/design/
+
+___________________
 
 Just for Fun -
 
