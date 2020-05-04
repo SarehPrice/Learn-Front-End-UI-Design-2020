@@ -68,6 +68,8 @@ _________________
 
 Essential Topics and Concepts
 
+How the Internet & Computers Work - https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org#internet-works-intro
+
 What is Computer Science? - https://www.freecodecamp.org/news/what-is-computer-programming-defining-software-development/
 
 Responsive Web Design - https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/
@@ -277,8 +279,6 @@ UI is NOT THE SAME as UX.
 UX is the study of design and human-computer-interaction and psychology. 
 UI deals with the visual stuffs. 
 
-Check out my Article on UX/UI Design resources - https://www.sarehprice.com/blog/ways-to-become-a-better-ux-designer-every-day
-
 Stay up to date in the field by reading articles from places like
 
 Smashing Magazine, https://www.smashingmagazine.com/
@@ -294,6 +294,10 @@ UX collective https://uxdesign.cc/
 Neilsen Norman Group https://www.nngroup.com/
 
 Mockplus https://www.mockplus.com/blog
+
+Hey Designer https://heydesigner.com/
+
+Designer News https://www.designernews.co/
 
 and more.
 
