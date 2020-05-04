@@ -108,7 +108,7 @@ Interview Cake - Learn CS and how to solve programmer interviews - https://www.i
 
 Programming Interview Youtube - https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9
 
-**100 Days of Code - putting this up here because the idea behind it is solid, reptition, accountability, and progress - https://www.100daysofcode.com/
+100 Days of Code - putting this up here because the idea behind it is solid, reptition, accountability, and progress - https://www.100daysofcode.com/
 
 ______
 
@@ -235,6 +235,20 @@ Computer Science from Havard - https://www.youtube.com/playlist?list=PLWKjhJtqVA
 Computer Science - https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
 
 Google Materials - https://material.io/design/
+
+_________________
+
+Accessibility 
+
+Web Content Accessibility Guidelines (WCAG) - https://www.w3.org/WAI/standards-guidelines/wcag/
+
+ADA Checklist (2019) - https://medium.com/@krisrivenburgh/the-ada-checklist-website-compliance-guidelines-for-2019-in-plain-english-123c1d58fad9
+
+A11y Checklist (check out the a11y newsletter) - https://a11yproject.com/checklist/
+
+Web Accessibility for Developers - https://www.wuhcag.com/wcag-checklist/
+
+15 Things You Can Do to Improve Your website Accessibility - https://websitesetup.org/web-accessibility-checklist/
 
 ___________________
 
