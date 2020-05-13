@@ -4,7 +4,7 @@ Learn Programming/Front-End Development (HTML/CSS/Javascript)
 
 Front-End developers are different from back-end devs in that front-end developers manipulate the browsers to create web pages and other interactive content. To learn front-end development, you start off with HTML, then CSS, and then Javascript. Once you've learned those, you can move on to other things like frameworks (Bootstrap, React, Angular, Vue, etc). Frameworks you can start learning once you've learned the basics of the three. Frameworks make lives easier. 
 
-A good programmer does not have to remember everything. Open source code powers the web and allows programmers to use and exchange code for free. If you are stuck on something GOOGLE IT. You'll probably find the answer. 
+A good programmer does not have to remember everything. Open source code powers the web and allows programmers to use and exchange code for free (check out some contributing open source guides underneath "Mastering Front End"). If you are stuck on something GOOGLE IT. You'll probably find the answer. 
 
 There are a million tutorials out there. Be careful not to get stuck in what's known as "tutorial hell" where you just endlessly watch tutorials but never learn anything concrete. The best way to learn is BY DOING. Exercise sites like this come in handy, but you also want to think of projects to build. Host those projects on Github for your portfolio. Or look up project tutortials. 
 
@@ -111,6 +111,14 @@ Interview Cake - Learn CS and how to solve programmer interviews - https://www.i
 Programming Interview Youtube - https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9
 
 100 Days of Code - putting this up here because the idea behind it is solid, reptition, accountability, and progress - https://www.100daysofcode.com/
+
+The Definite Guide to Contributing to Open Source - https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/
+
+How to Make Contributions - https://github.com/firstcontributions/first-contributions
+
+Awesome list of PR (Pull Requests) - https://github.com/MunGell/awesome-for-beginners
+
+First Timers Only- A resource for your first time contributing to open source projects - https://www.firsttimersonly.com/
 
 ______
 
@@ -268,6 +276,10 @@ https://womeninwebdev.com/
 
 https://www.hiretechladies.com/
 
+Get Involved as Developers - https://www.pluralsight.com/courses/get-involved
+
+CodeNewbie- https://www.codenewbie.org/
+
 http://ladydev.org/ (Local club in Des Moines, they also run Area515)
 
 _____________________
@@ -313,16 +325,27 @@ Listen to podcasts like User Experience Defenders, What’s Wrong With UX, and o
 Attend UX networking meetups. (meetup . com)
 
 Watch Youtube Channels and videos about UX.
+
 AJ&Smart
+
 App Design Tips
+
 The Futur
+
 Caler Edwards
+
 CareerFoundry
+
 Dansky
+
 Invision
+
 DesignCourse
+
 Flux
+
 LinkedinLearning
+
 NNGroup
 
 Stay up-to-date and watch tutorials on using tools like Sketch, Invision, Figma, and other UX tools or user research tools.
