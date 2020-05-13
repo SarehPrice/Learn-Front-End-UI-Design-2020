@@ -28,7 +28,7 @@ When you can create a basic website and have a portfolio of a couple different p
 
 If you work on a website that's already live, you don't need a github for it. But they're good for projects that aren't live. 
 
-Regardless of what you do, freelance or volunteer projects will help you gain exp in case you can't get an internship. But developer internships are usually open to people out of school because so many people career swtich. You can also start applying to junior level positions. 
+Regardless of what you do, freelance or volunteer projects will help you gain exp in case you can't get an internship. But developer internships are usually open to people out of school because so many people career swtich. You can also start applying to junior level positions. Check out open source projects, paired programming, and colloboration with a friend. 
 
 ________________
 
@@ -88,6 +88,8 @@ ______
 
 Mastering Front-End
 
+100 Days of Code - the idea behind it is solid, reptition, accountability, and progress - https://www.100daysofcode.com/
+
 Guide to Web Skills - https://andreasbm.github.io/web-skills/
 
 W3Schools- Learn programming and look stuff up- A reference resource- https://www.w3schools.com/
@@ -110,8 +112,6 @@ Interview Cake - Learn CS and how to solve programmer interviews - https://www.i
 
 Programming Interview Youtube - https://www.youtube.com/playlist?list=PLWKjhJtqVAblv09G3sFgRMSeR0jnKQmJ9
 
-100 Days of Code - putting this up here because the idea behind it is solid, reptition, accountability, and progress - https://www.100daysofcode.com/
-
 The Definite Guide to Contributing to Open Source - https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/
 
 How to Make Contributions - https://github.com/firstcontributions/first-contributions
@@ -119,6 +119,8 @@ How to Make Contributions - https://github.com/firstcontributions/first-contribu
 Awesome list of PR (Pull Requests) - https://github.com/MunGell/awesome-for-beginners
 
 First Timers Only- A resource for your first time contributing to open source projects - https://www.firsttimersonly.com/
+
+Pros and Cons of Paired Programming (When you and a teammate work together on the same code) - https://www.freecodecamp.org/news/the-benefits-and-pitfalls-of-pair-programming-in-the-workplace-e68c3ed3c81f/
 
 ______
 
@@ -220,7 +222,7 @@ Javascript in 12 minutes - https://youtu.be/Ukg_U3CnJWI
 
 ______
 
-More Advanced Code and Topcis-
+More Advanced Code and Topcis and Computer Science-
 
 Google Developers - tutorials and other resources - https://developers.google.com/
 
@@ -245,6 +247,8 @@ Computer Science from Havard - https://www.youtube.com/playlist?list=PLWKjhJtqVA
 Computer Science - https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD
 
 Google Materials - https://material.io/design/
+
+What is Blockchain? - https://www.freecodecamp.org/news/what-is-blockchain-and-how-does-it-work/
 
 _________________
 
@@ -279,6 +283,8 @@ https://www.hiretechladies.com/
 Get Involved as Developers - https://www.pluralsight.com/courses/get-involved
 
 CodeNewbie- https://www.codenewbie.org/
+
+Hackernoon- A community blog, learning resource, etc.- https://hackernoon.com/
 
 http://ladydev.org/ (Local club in Des Moines, they also run Area515)
 
